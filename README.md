@@ -37,3 +37,5 @@ Ein einfaches Python-Konsolenprogramm zur Durchführung grundlegender mathematis
 ### Verwendung
 ```bash
 python calculator.py
+## Hinweis
+Die Projekte dienen ausschließlich zu Lernzwecken.
